@@ -1,6 +1,8 @@
 # Organizer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
+This app I developed for myself, to accomplish the everyday tasks and planning for future ones. 
+Developed using Moment.js A JavaScript date library for parsing, validating, manipulating, and formatting dates.
+Firebase database
 
 ## Development server
 
